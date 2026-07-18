@@ -1,0 +1,17 @@
+import { QuartzComponent, QuartzComponentConstructor } from "./types"
+
+export const Footer: QuartzComponentConstructor = () => {
+  const Footer: QuartzComponent = () => {
+    return (
+      <footer>
+        <hr />
+        <ul style={{ listStyle: "none", padding: 0 }}>
+          <li>
+            <a href="https://microbesvibes.codeberg.page">Return to Microbes/Vibes site</a>
+          </li>
+        </ul>
+      </footer>
+    )
+  }
+  return Footer
+}
