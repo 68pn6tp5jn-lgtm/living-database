@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: microbesvibes.codeberg.page
+  baseUrl: 68pn6tp5jn.github.io/living-database
   ignorePatterns:
     - private
     - templates
