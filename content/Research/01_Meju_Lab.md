@@ -13,14 +13,10 @@
 
 ![[inside original meju blocks.JPG]]
 > [!ABSTRACT]- 📄 Analytical Papers on The 11 Meju Samples and Jang Production
-> [[Living-fermentation-school-full-analysis.pdf]]
-> 
-> [[Living-fermentation-school-meju-breakdown-chart.pdf]]
-> 
-> [[Jang_eng_hansik-1.pdf]]
-> 
->[[Jang-Science-Paper2.pdf]]
-
+> [Living-fermentation-school-full-analysis.pdf](Living-fermentation-school-full-analysis.pdf)
+> [Living-fermentation-school-meju-breakdown-chart.pdf](Living-fermentation-school-meju-breakdown-chart.pdf)
+> [Jang_eng_hansik-1.pdf](Jang_eng_hansik-1.pdf)
+> [Jang-Science-Paper2.pdf](Jang-Science-Paper2.pdf)
 
 Tomorrow's Table and I developed this curriculum to document a collaborative R&D workshop called "Nuju." We partnered with traditional producers to explore rare summer Meju fermentation processes. By working directly with the public, we turned the workshop into an open research project.
 
