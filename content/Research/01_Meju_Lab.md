@@ -55,10 +55,10 @@ The following four sections detail this curriculum in full transparency. All dat
 # Week 1: Group R&D Curriculum: Green Pea Meju
 
 > [!ABSTRACT]- 📄 PDFs for Week 1 Workshop 
-> - ![[Recipe-For-Worksop.pdf]]
-> - ![[Pea_Meju_RnD_Fermentation_Log_EN.docx.pdf]] 
-> - ![[Nuju_Workshop_Orientation_EN.pdf]]
-> - ![[Korean_Fermentation_Workshop_Week1_Pea_Meju_EN.pdf]]
+> [[Recipe-For-Worksop.pdf]]
+> [[Pea_Meju_RnD_Fermentation_Log_EN.docx.pdf]] 
+> [[Nuju_Workshop_Orientation_EN.pdf]]
+> [[Korean_Fermentation_Workshop_Week1_Pea_Meju_EN.pdf]]
 
 > [!ABSTRACT]- 🖼️ Week 1 Workshop images
 >-![[Full-Table-Of-Meju-for-workshop.jpg]]]
@@ -92,9 +92,9 @@ Traditional Barley Bran Meju Production Video
 
 
 > [!ABSTRACT]- 📄 PDFs for Week 2 Workshop 
-> - ![[Recipe-Week-2.pdf]]
-> - ![[Deotgyeojang_Meju_Fermentation_Journal_EN.pdf]]
-> - ![[Meju_RnD_Process_Comparison_and_Manuals_EN.pdf|Meju_RnD_Process_Comparison_and_Manuals_EN]]
+> [[Recipe-Week-2.pdf]]
+> [[Deotgyeojang_Meju_Fermentation_Journal_EN.pdf]]
+> [[Meju_RnD_Process_Comparison_and_Manuals_EN.pdf|Meju_RnD_Process_Comparison_and_Manuals_EN]]
 
 > [!ABSTRACT]- 🖼️ Week 2 Workshop images
 >-![[workshop 2 table.jpeg]]
