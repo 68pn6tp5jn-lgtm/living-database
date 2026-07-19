@@ -100,3 +100,4 @@ export default (() => {
 
   return Head
 }) satisfies QuartzComponentConstructor
+//
