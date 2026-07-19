@@ -1,0 +1,58 @@
+/* HIGH-CONTRAST DATA-FOCUSED THEME */
+:root {
+  --bg-color: #ffffff;
+  --text-color: #000000;
+  --border-color: #000000;
+  --font-mono: 'Courier New', Courier, monospace;
+  --font-sans: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+body, .prose {
+  background-color: var(--bg-color) !important;
+  color: var(--text-color) !important;
+  font-family: var(--font-sans) !important;
+  line-height: 1.5;
+}
+
+/* Typography Hierarchy */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-sans) !important;
+  font-weight: 900 !important;
+  text-transform: uppercase;
+  letter-spacing: -1px;
+  color: var(--text-color) !important;
+  border-bottom: 4px solid var(--border-color);
+  padding-bottom: 5px;
+  margin-top: 2.5rem;
+}
+
+/* Links */
+a {
+  color: var(--text-color) !important;
+  text-decoration: none !important;
+  border-bottom: 2px solid var(--border-color);
+  font-weight: bold;
+}
+
+a:hover {
+  background-color: var(--text-color) !important;
+  color: var(--bg-color) !important;
+}
+
+/* Images and Media (Raw edges) */
+img, video {
+  border: 3px solid var(--border-color) !important;
+  border-radius: 0 !important;
+}
+
+/* Callouts / Dropdowns / PDFs (Objective data layout) */
+.callout, details, .pdf-embed {
+  background-color: transparent !important;
+  border: 2px solid var(--border-color) !important;
+  border-radius: 0 !important;
+  padding: 15px !important;
+  font-family: var(--font-mono) !important;
+  box-shadow: 6px 6px 0px var(--text-color);
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
