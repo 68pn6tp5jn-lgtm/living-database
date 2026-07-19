@@ -97,7 +97,6 @@ Traditional Barley Bran Meju Production Video
 >-![[setup of workshop 2 ingredients.jpeg]]
 >-![[chili seed.jpeg]]![[chili.jpeg]]
 >-![[Crushed Barley bran Meju in bag.jpeg]]
->-![[Crushed Barley bran Meju in bag 1.jpeg]]
 >-![[crushed barley bran meju.jpeg]]
 >-![[workshop2 group reading recipe.jpeg]]
 >-![[workshop group preparing barley bran with water 1.jpeg]]
