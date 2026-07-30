@@ -35,7 +35,7 @@ The following four sections detail this curriculum in full transparency. All dat
 
 - **Art:**  Ye chan
 
-- **Pdf & Analysis:** Ji Hyun Sook, Jangsu Fermentation school
+- **Pdf & Analysis:** Jee Hyunsuk  Fermentation school
 
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin-bottom: 20px;">
   <img src="nuju1.jpg" style="width: 100%; height: auto; border-radius: 5px;">
