@@ -13,7 +13,7 @@
 
 ![[inside original meju blocks.JPG]]
 > [!ABSTRACT]- 📄 Analytical Papers on The 11 Meju Samples and Jang Production
-> [living-fermentation-school-full-analysis.pdf](living-fermentation-school-full-analysis.pdf)
+> [[Fermentation-school-full-analysis.pdf]]
 > [Jang_eng_hansik-1.pdf](Jang_eng_hansik-1.pdf)
 > [Jang-Science-Paper2.pdf](Jang-Science-Paper2.pdf)
  > [[Meju-Breakdown-Chart.pdf]]
