@@ -82,10 +82,11 @@ The following four sections detail this curriculum in full transparency. All dat
 
 # Week 2: Group Meju Curriculum: Roasted Barley Bran Meju
 
-Traditional Barley Bran Meju Production Video
+Traditional Barley Bran Meju Production Videos
 
 <iframe title="Barley Abram meju process" width="560" height="315" src="https://makertube.net/videos/embed/9nLHiF2wSxgZfp9v6bPcHi" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms" style="border: 0px;"></iframe>
 
+<iframe title="barley Meju Production" width="560" height="315" src="https://makertube.net/videos/embed/ktmLc2CmyWqNNNt5q1s42h" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms" style="border: 0px;"></iframe>
 
 > [!ABSTRACT]- 📄 PDFs for Week 2 Workshop
 > [Recipe-Week-2.pdf](Recipe-Week-2.pdf)
